@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## A Student Majoring In Software
+Hi there 👋
 <!--
 **TemKm/Temkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
